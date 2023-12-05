@@ -35,6 +35,4 @@ This project is currently in a standalone state. Contributions, suggestions, and
 
 ## Contact
 
-For any further inquiries or to discuss this project in detail, please reach out via [email address] or connect on [LinkedIn profile link].
-
-Thank you for your interest in this ALU project!
+For any further inquiries or to discuss this project in detail, please reach out via [ronaldne69@gmail.com] 
